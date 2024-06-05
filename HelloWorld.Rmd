@@ -1,0 +1,16 @@
+---
+title: "HelloWorld.md"
+author: "LS"
+date: "2024-06-05"
+output: html_document
+---
+
+```{r}
+print("Hello world")
+
+```
+
+## Markdown
+
+This is an markdown file. 
+
